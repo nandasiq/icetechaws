@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-icetech-dev-155520-authRole",
+      "UnauthRoleArn": "arn:aws:iam::113915573468:role/amplify-icetech-dev-155520-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::113915573468:role/amplify-icetech-dev-155520-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-icetech-dev-155520-deployment",
+      "UnauthRoleName": "amplify-icetech-dev-155520-unauthRole",
+      "StackName": "amplify-icetech-dev-155520",
+      "StackId": "arn:aws:cloudformation:us-east-1:113915573468:stack/amplify-icetech-dev-155520/d90210d0-806b-11ec-9abc-0ad9f221435b",
+      "AmplifyAppId": "d1me39tt4v3gpq"
+    },
+    "categories": {
+      "auth": {
+        "icetech705ff910": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1me39tt4v3gpq",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
